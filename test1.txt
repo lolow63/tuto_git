@@ -1,2 +1,2 @@
-Voici la première ligne de code
+Première ligne de code modifiée
 Une deuxième ligne de code
